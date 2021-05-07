@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 8a637648a574b478296989cf17128623
+timeCreated: 1508837482
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: panda_walking_0
+    21300002: panda_walking_1
+    21300004: panda_walking_2
+    21300006: panda_walking_3
+    21300008: panda_walking_4
+    21300010: panda_walking_5
+    21300012: panda_walking_6
+    21300014: panda_walking_7
+    21300016: panda_walking_08
+    21300018: panda_walking_9
+    21300020: panda_walking_10
+    21300022: panda_falling_0
+    21300024: panda_falling_1
+    21300026: panda_falling_2
+    21300028: panda_falling_3
+    21300030: panda_falling_4
+    21300032: panda_falling_5
+    21300034: panda_falling_6
+    21300036: panda_falling_7
+    21300038: panda_falling_8
+    21300040: panda_falling_9
+    21300042: panda_hit_0
+    21300044: panda_hit_1
+    21300046: panda_hit_2
+    21300048: panda_hit_3
+    21300050: panda_hit_4
+    21300052: panda_explode_0
+    21300054: panda_explode_1
+    21300056: panda_explode_2
+    21300058: panda_explode_3
+    21300060: animation_panda_sprite_sheet_30
+    21300062: panda_explode_4
+    21300064: panda_explode_5
+    21300066: panda_explode_6
+    21300068: panda_explode_7
+    21300070: panda_explode_8
+    21300072: panda_explode_9
+    21300074: panda_explode_10
+    21300076: panda_explode_11
+    21300078: panda_explode_12
+    21300080: panda_explode_13
+    21300082: panda_explode_14
+    21300084: panda_explode_15
+    21300086: animation_panda_sprite_sheet_0
+    21300088: animation_panda_sprite_sheet_1
+    21300090: animation_panda_sprite_sheet_2
+    21300092: animation_panda_sprite_sheet_3
+    21300094: animation_panda_sprite_sheet_4
+    21300096: animation_panda_sprite_sheet_5
+    21300098: animation_panda_sprite_sheet_6
+    21300100: animation_panda_sprite_sheet_7
+    21300102: animation_panda_sprite_sheet_8
+    21300104: animation_panda_sprite_sheet_9
+    21300106: animation_panda_sprite_sheet_10
+    21300108: animation_panda_sprite_sheet_11
+    21300110: animation_panda_sprite_sheet_12
+    21300112: animation_panda_sprite_sheet_13
+    21300114: animation_panda_sprite_sheet_14
+    21300116: animation_panda_sprite_sheet_15
+    21300118: animation_panda_sprite_sheet_16
+    21300120: animation_panda_sprite_sheet_17
+    21300122: animation_panda_sprite_sheet_18
+    21300124: animation_panda_sprite_sheet_19
+    21300126: animation_panda_sprite_sheet_20
+    21300128: animation_panda_sprite_sheet_21
+    21300130: animation_panda_sprite_sheet_22
+    21300132: animation_panda_sprite_sheet_23
+    21300134: animation_panda_sprite_sheet_24
+    21300136: animation_panda_sprite_sheet_25
+    21300138: animation_panda_sprite_sheet_26
+    21300140: animation_panda_sprite_sheet_27
+    21300142: animation_panda_sprite_sheet_28
+    21300144: animation_panda_sprite_sheet_29
+    21300146: animation_panda_sprite_sheet_31
+    21300148: animation_panda_sprite_sheet_32
+    21300150: animation_panda_sprite_sheet_33
+    21300152: animation_panda_sprite_sheet_34
+    21300154: animation_panda_sprite_sheet_35
+    21300156: animation_panda_sprite_sheet_36
+    21300158: animation_panda_sprite_sheet_37
+    21300160: animation_panda_sprite_sheet_38
+    21300162: animation_panda_sprite_sheet_39
+    21300164: animation_panda_sprite_sheet_40
+    21300166: animation_panda_sprite_sheet_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 5552
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4997
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4997
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 4997
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4997
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 4997
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3887
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3332
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3332
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3332
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3332
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2222
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2222
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2222
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2222
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2222
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1112
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 557
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_panda_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2
+        width: 680
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
